@@ -27,7 +27,7 @@ nav ul li {
  
 nav ul li a {
     display: block; /* Convertimos los elementos a en elementos bloque para manipular el padding */
-    padding: 20px;
+    padding: 15px;
     color: #fff;
     text-decoration: none;
 }
@@ -44,7 +44,17 @@ nav ul li:hover > ul{
 nav li ul{
     display:none;
     position:absolute;
-    min-width:140px;
+    min-width:130px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+.contenido {
+    font-size:50px;
+    text-align:center;
+    padding-top: 60px;
 }
 
 .wrapper {
@@ -53,16 +63,38 @@ nav li ul{
     overflow:hidden;
 }
 
-p {
-    margin-bottom: 20px;
+.contenido2 {
+    font-size:20px;
+    text-align:center;
+    padding-top: 5px;
 }
 
-.contenido {
-  padding-top: 80px;
+.wrapper2 {
+    width: 80%;
+    margin: auto;
+    overflow:hidden;
 }
 
-.wrapper {
-  width: 80%;
-  margin: auto;
-  overflow:hidden;
+.Opcion{
+    float:left;
+    margin-left: 35px;
+    box-shadow: -9px 2px 51px -2px;
+    margin-bottom: 15px;
+}
+
+.Imagenes{
+    margin-left: 23%;
+    margin-right: 23%;
+}
+
+.Opcion1{
+    float:left;
+    margin-left: 35px;
+    box-shadow: -9px 2px 51px -2px;
+    margin-bottom: 15px;
+}
+
+.Imagenes1{
+    margin-left: 23%;
+    margin-right: 23%;
 }
