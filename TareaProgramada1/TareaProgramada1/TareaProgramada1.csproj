@@ -97,6 +97,8 @@
     <Content Include="Acerca de.html" />
     <Content Include="Computacion.html" />
     <Content Include="Contacto.html" />
+    <Content Include="Cursos.html" />
+    <Content Include="Descargas.html" />
     <Content Include="Imagenes\391-mail4.png" />
     <Content Include="Imagenes\397-google-plus2.png" />
     <Content Include="Imagenes\401-facebook.png" />
@@ -127,6 +129,8 @@
     <Content Include="Estilo.css" />
     <Content Include="PaginaInicio.html" />
     <Content Include="Pasatiempos.html" />
+    <Content Include="Porque.html" />
+    <Content Include="ProfesYcompas.html" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="Web.config" />
