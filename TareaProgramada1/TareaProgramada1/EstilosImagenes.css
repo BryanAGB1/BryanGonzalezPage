@@ -1,2 +1,39 @@
 ﻿body {
+   
+}
+
+
+.Imagen{
+    margin-left: 23%;
+    margin-right: 35%;
+    
+}
+
+.Imagen1{
+    margin-left: 80px;
+    margin-bottom: 80px; 
+}
+
+.Imagen2{
+    margin-left: 70px;
+    margin-bottom: 90px;   
+}
+
+.Imagen3{
+    margin-left: 70px;
+    margin-bottom: 80px;   
+}
+
+.Imagen4{
+    margin-left: 70px;
+    margin-bottom: 80px;   
+}
+
+.centrar{
+text-align:center;
+width: 80%;
+margin: auto;
+overflow:hidden;
+font-size:30px;
+padding-top: 5px;
 }
